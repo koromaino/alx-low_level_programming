@@ -4,7 +4,7 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
-/* main -> assign random numbers to variable and prin function based on condition*/
+/* main -> assign random numbers to variable and prin fun based on condition*/
 int main(void)
 {
 int n;
