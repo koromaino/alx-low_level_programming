@@ -3,7 +3,8 @@
  * Return: Always 0
  */
 int main(void)
-int _putchar(char);{
+int _putchar(char);
+{
 	_putchar("_");
 	_putchar("p");
 	_putchar("u");
@@ -14,5 +15,6 @@ int _putchar(char);{
 	_putchar("r");
 	_putchar("\n");
 	
+	return (0);
 }
 
