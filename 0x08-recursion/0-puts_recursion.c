@@ -3,7 +3,7 @@
 /**
  * _puts_recursion -> This function will print string recursively
  * @s: string parameter
- * /
+ */
  void _puts_recursion(char *s);
  {
  	s = "lpa\0"
